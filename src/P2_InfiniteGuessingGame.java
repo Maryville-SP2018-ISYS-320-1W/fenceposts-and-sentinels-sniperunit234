@@ -62,6 +62,8 @@ public class P2_InfiniteGuessingGame {
 			} else {
 				System.out.println("Nope, guess again. ");
 				numOfGuessesTaken++;
+				
+				return nextGuess;
 			}
 		}
 

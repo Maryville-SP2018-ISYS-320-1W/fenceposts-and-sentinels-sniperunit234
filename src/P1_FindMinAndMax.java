@@ -15,7 +15,7 @@ public class P1_FindMinAndMax {
         int min = Integer.MAX_VALUE;
         
         // YOUR CODE STARTS HERE
-
+k
 
         // YOUR CODE ENDS HERE
         
